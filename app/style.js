@@ -1,0 +1,1 @@
+export const THEME_COLOR = 'rgb(66, 134, 245)'
